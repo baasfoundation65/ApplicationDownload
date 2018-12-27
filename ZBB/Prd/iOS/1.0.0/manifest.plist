@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://obt-bcaas.oss-ap-northeast-1.aliyuncs.com/ZBB/Prd/iOS/1.0.0/ZBB.ipa</string>
+					<string>https://github.com/baasfoundation65/ApplicationDownload/blob/master/ZBB/Prd/iOS/1.0.0/ZBB.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
